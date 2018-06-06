@@ -46,6 +46,14 @@ If you’d like to save your sample output back to your computer, use these comm
 * Switch back to the other Terminal window of your computer.
 * Copy the file to your computer: `$ docker cp container_name:/root/torch-rnn/output.txt .`
 
+## Credits
+
+Christian baldi’s `docker-torch-rnn` project: [github.com/crisbal/docker-torch-rnn](https://github.com/crisbal/docker-torch-rnn)
+
+Justin Johnson’s `torch-rnn` project: [github.com/jcjohnson/torch-rnn](https://github.com/jcjohnson/torch-rnn)
+
+Andrej’s `char-rnn` project: [github.com/karpathy/char-rnn](https://github.com/karpathy/char-rnn)
+
 ## License
 
 Torch-rnn Copyright (c) 2016 Justin Johnson under an MIT License.
